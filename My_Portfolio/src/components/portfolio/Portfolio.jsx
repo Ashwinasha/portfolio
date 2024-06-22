@@ -34,9 +34,9 @@ const Portfolio = () => {
       title: "Text Editor",
       img: IMG3,
       description:
-        "Text editor developed with HTML, CSS, and JavaScript. Includes undo/redo actions, text formatting features, and indentation options.",
-      technologies: "HTML | CSS | Bootstrap | JS ",
-      link: "https://github.com/Ashwinasha/Text-Editor-Final.git",
+        "Text editor developed with React JS, HTML, CSS, and JavaScript. Includes undo/redo actions, text formatting features, and indentation options.",
+      technologies: "React JS |HTML | CSS | Bootstrap | JS ",
+      link: "https://github.com/Ashwinasha/react-text-editor",
     },
     {
       id: 4,
