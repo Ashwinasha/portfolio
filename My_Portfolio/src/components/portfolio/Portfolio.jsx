@@ -22,7 +22,7 @@ const Portfolio = () => {
     },
     {
       id: 2,
-      title: "Job Finder",
+      title: "Intern Finder",
       img: IMG2,
       description:
         "Job Finder website developed using Python Django. It features user authentication, job search functionalities, and job posting capabilities.",
