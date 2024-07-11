@@ -73,7 +73,7 @@ const Portfolio = () => {
       description:
       "The Mobile Shop E-commerce website frontend, developed using React.js, HTML, CSS, and Bootstrap, features a carousel slider and grid to showcase product items. This project enhances user experience with dynamic product displays and efficient navigation.",
       technologies: "React Js | HTML | CSS | Bootstrap ",
-      link: "https://github.com/Ashwinasha/laravel-sms.git",
+      link: "https://github.com/Ashwinasha/ecom-front.git",
     },
   ];
 
