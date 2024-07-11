@@ -6,6 +6,7 @@ import IMG3 from "../../assets/te.png";
 import IMG4 from "../../assets/stu.png";
 import IMG5 from "../../assets/bmi.png";
 import IMG6 from "../../assets/sms.png";
+import IMG7 from "../../assets/mec.png";
 import React from "react";
 
 //Portfolio function
@@ -63,6 +64,15 @@ const Portfolio = () => {
       description:
       "The Student Management System, crafted using PHP Laravel, empowers educators and administrators with efficient CRUD operations alongside register and login functionalities.",
       technologies: "Laravel | HTML | CSS | Bootstrap | PHP",
+      link: "https://github.com/Ashwinasha/laravel-sms.git",
+    },
+    {
+      id: 7,
+      title: "Mobile Shop E-commerce website frontend",
+      img: IMG7,
+      description:
+      "The Mobile Shop E-commerce website frontend, developed using React.js, HTML, CSS, and Bootstrap, features a carousel slider and grid to showcase product items. This project enhances user experience with dynamic product displays and efficient navigation.",
+      technologies: "React Js | HTML | CSS | Bootstrap ",
       link: "https://github.com/Ashwinasha/laravel-sms.git",
     },
   ];
