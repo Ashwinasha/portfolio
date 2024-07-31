@@ -15,14 +15,7 @@ const Intro = () => {
         </div>
         <div className="intro__container">
           <h3 className="profile-summary-heading">Profile Summary</h3>
-          <p>Passionate and dedicated undergraduate with a strong focus on 
-            web development, eager to apply and enhance my skills in real world projects. Proficient in key programming languages 
-            including PHP, JavaScript, Python, and C. Skilled in front-end 
-            frameworks like React and back-end frameworks such as Django 
-            and Laravel. Eager to contribute to innovative solutions, 
-            collaborate effectively in a team environment, and committed to 
-            continuous learning to stay at the forefront of web development 
-            technologies and best practices.
+          <p>Passionate and dedicated undergraduate with a strong focus on technology, problem-solving, and business analysis, eager to apply and enhance my skills in real-world projects. Proficient in key programming languages including PHP, JavaScript, Python, and C. Skilled in various frameworks and tools, as well as business analysis techniques such as preparing SRS documents and UML diagrams. Committed to contributing to innovative solutions, collaborating effectively in a team environment, and continuously learning to stay at the forefront of technology and best practices.
           </p>
           <br></br>
           <a href="#contact" className="btn btn-primary">
