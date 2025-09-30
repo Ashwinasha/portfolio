@@ -7,6 +7,7 @@ import IMG4 from "../../assets/stu.png";
 import IMG5 from "../../assets/bmi.png";
 import IMG6 from "../../assets/sms.png";
 import IMG7 from "../../assets/mec.png";
+import IMG8 from "../../assets/course.png";
 import React from "react";
 
 //Portfolio function
@@ -74,6 +75,15 @@ const Portfolio = () => {
       "The Mobile Shop E-commerce website frontend, developed using React.js, HTML, CSS, and Bootstrap, features a carousel slider and grid to showcase product items. This project enhances user experience with dynamic product displays and efficient navigation.",
       technologies: "React Js | HTML | CSS | Bootstrap ",
       link: "https://github.com/Ashwinasha/ecom-front.git",
+    },
+    {
+      id: 8,
+      title: "Course Management Application",
+      img: IMG8,
+      description:
+      "The Course Management System, developed with React.js and Spring Boot, enables CRUD operations for courses, students, and marks. Integrated with MySQL, it streamlines academic management and enhances usability for efficient record and performance tracking.",
+      technologies: "React Js | HTML | CSS | Bootstrap | Spring Boot | Java  ",
+      link: "https://github.com/Ashwinasha/course",
     },
   ];
 
