@@ -8,6 +8,8 @@ import IMG5 from "../../assets/bmi.png";
 import IMG6 from "../../assets/sms.png";
 import IMG7 from "../../assets/mec.png";
 import IMG8 from "../../assets/course.png";
+import IMG9 from "../../assets/hale.png";
+import IMG10 from "../../assets/trez.png";
 import React from "react";
 
 //Portfolio function
@@ -15,6 +17,24 @@ const Portfolio = () => {
   const soloProjects = [
     {
       id: 1,
+      title: "HaleNature e-commerce website",
+      img: IMG9,
+      description:
+        "An e-commerce platform developed using Laravel, JavaScript, Bootstrap, CSS, and MySQL. It includes features such as user registration and login, admin management, product management, slider management, and secure backend operations for efficient online store management.",
+      technologies: "HTML | CSS | Bootstrap | JS | PHP | Mysql | Laravel",
+      link: "https://www.halenature.com/",
+    },
+    {
+      id: 2,
+      title: "Trezzer travel booking website",
+      img: IMG10,
+      description:
+        "A travel booking platform built with Laravel, JavaScript, Bootstrap, CSS, and MySQL. It allows users to explore destinations, register and log in, and includes modules for admin and agent management, dynamic content sliders, and robust backend functionality for managing travel packages.",
+      technologies: "HTML | CSS | Bootstrap | JS | PHP | Mysql | Laravel",
+      link: "https://www.trezzert.com/",
+    },
+    {
+      id: 3,
       title: "Library Management System",
       img: IMG1,
       description:
@@ -23,7 +43,7 @@ const Portfolio = () => {
       link: "https://github.com/Ashwinasha/LMS.git",
     },
     {
-      id: 2,
+      id: 4,
       title: "Intern Finder",
       img: IMG2,
       description:
@@ -32,7 +52,7 @@ const Portfolio = () => {
       link: "https://github.com/Ashwinasha/job_finder.git",
     },
     {
-      id: 3,
+      id: 5,
       title: "Text Editor",
       img: IMG3,
       description:
@@ -41,7 +61,7 @@ const Portfolio = () => {
       link: "https://github.com/Ashwinasha/react-text-editor",
     },
     {
-      id: 4,
+      id: 6,
       title: "Student Management System",
       img: IMG4,
       description:
@@ -50,7 +70,7 @@ const Portfolio = () => {
       link: "https://github.com/Ashwinasha/SMS.git",
     },
     {
-      id: 5,
+      id: 7,
       title: "BMI Calculator",
       img: IMG5,
       description:
@@ -59,7 +79,7 @@ const Portfolio = () => {
       link: "https://github.com/Ashwinasha/bmi_cal.git",
     },
     {
-      id: 6,
+      id: 8,
       title: "SMS using Laravel",
       img: IMG6,
       description:
@@ -68,7 +88,7 @@ const Portfolio = () => {
       link: "https://github.com/Ashwinasha/laravel-sms.git",
     },
     {
-      id: 7,
+      id: 9,
       title: "Mobile Shop E-commerce website frontend",
       img: IMG7,
       description:
@@ -77,7 +97,7 @@ const Portfolio = () => {
       link: "https://github.com/Ashwinasha/ecom-front.git",
     },
     {
-      id: 8,
+      id: 10,
       title: "Course Management Application",
       img: IMG8,
       description:
